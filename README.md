@@ -1,4 +1,2 @@
-# HelloWorld
-novice!
-Hi, guys
-This is Garima. Listening to Pink floyd!!
+# HelloWorld!
+"Yesterday I was clever so I wanted to change the world; today I am wise so I'm changing myself..."
